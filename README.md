@@ -3,4 +3,8 @@ Primeiro desafio para a pratica de HTML, CSS e JS.
 
 ### Como contribuir no projecto
  git init 
- git clone link do repositorio   
+ git clone link do repositorio 
+
+## Tecnologias para contribuir
+   HTML, CSS e JS 
+   
